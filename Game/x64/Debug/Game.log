@@ -1,5 +1,5 @@
 ﻿  AppWindow.cpp
-  main.cpp
-  Window.cpp
+C:\dev\c++\Game\Game\AppWindow.cpp(50,81): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  VertexBuffer.cpp
   Generating Code...
   Game.vcxproj -> C:\dev\c++\Game\x64\Debug\Game.exe
